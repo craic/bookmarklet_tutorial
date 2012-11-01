@@ -1,0 +1,15 @@
+/* Your styles go here */
+/* Be sure to use unique calls names and ids or you will override the styles in the target page */
+
+#craic-div {
+  height: 100px;
+  background-color: #eee;
+  border: 1px solid red;
+  color: black;
+  font-size: 14px;
+  font-family: Helvetica, sans-serif;
+  text-align: left;
+  padding: 10px;
+}
+
+
