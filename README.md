@@ -79,9 +79,9 @@ version is a little more descriptive.</p>
 
 <p class='indent-para'>The example uses 3 JS scripts:</p>
   <ul class='indent-para'>
-  <li><a href="./example-2-bookmarklet.js">example-2-bookmarklet.js</a> - the code that gets installed in your toolbar</li>
-  <li><a href="./example-2-injector.js">example-2-injector.js</a> - the code that injects your custom js into the current page</li>
-  <li><a href="./example-2-custom.js">example-2-custom.js</a> - your custom js code</li>
+  <li><a href="./bookmarklet_tutorial/example-2-bookmarklet.js">example-2-bookmarklet.js</a> - the code that gets installed in your toolbar</li>
+  <li><a href="./bookmarklet_tutorial/example-2-injector.js">example-2-injector.js</a> - the code that injects your custom js into the current page</li>
+  <li><a href="./bookmarklet_tutorial/example-2-custom.js">example-2-custom.js</a> - your custom js code</li>
   </ul>
 <p class='indent-para'>
   The bookmarklet and injector scripts are fairly general purpose. The changes required should be pretty obvious and specify your server address
