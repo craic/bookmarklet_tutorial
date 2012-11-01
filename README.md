@@ -7,12 +7,13 @@ This is very easy, assuming that you are familar with Ruby and have it installed
 </p>
 <p>
 In the downloaded directory, run 'bundle install' then start the server with 'rackup -p 4567'. Point your browser at http://localhost:4567
-to see the tutorial page along with live links
+to see the tutorial page along with live links.
 </p>
 
+<p>&nbsp;</p>
 
 <h2 style="text-align: center">JQuery Bookmarklet Tutorial</h2>
-<p>&nbsp;</p>
+
 
 <p>A browser Bookmarklet is a simple way to invoke external JavaScript code on the contents of a web page. </p>
 
